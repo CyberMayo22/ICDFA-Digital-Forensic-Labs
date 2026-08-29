@@ -1,0 +1,68 @@
+# ==============================
+# Digital Forensics Lab Repository
+# ==============================
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Autopsy generated files
+# ==============================
+
+# Autopsy logs
+**/Autopsy_Analysis/**/Log/
+
+# Autopsy module outputs
+**/Autopsy_Analysis/**/ModuleOutput/
+
+# Autopsy reports
+**/Autopsy_Analysis/**/Reports/
+
+# Autopsy temporary/cache files
+**/Autopsy_Analysis/**/Temp/
+**/Autopsy_Analysis/**/Cache/
+
+# Autopsy case database files
+**/Autopsy_Analysis/**/*.db
+**/Autopsy_Analysis/**/*.db-wal
+**/Autopsy_Analysis/**/*.db-shm
+
+# ==============================
+# Forensic image files
+# ==============================
+
+# Uncomment these if you do NOT want disk images in Git
+# *.dd
+# *.E01
+# *.Ex01
+# *.aff
+# *.aff4
+# *.img
+# *.raw
+
+# ==============================
+# Large/generated forensic files
+# ==============================
+
+*.log
+*.tmp
+*.cache
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# ==============================
+# IDE / Editor files
+# ==============================
+
+.vscode/
+.idea/

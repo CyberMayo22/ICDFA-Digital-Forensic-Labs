@@ -1,0 +1,47 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: SBT-DF202_LAB2
+Evidence Number: EV001
+Unique description: Acquiring a USB Image
+Examiner: Oje Dominion
+Notes: Image Type: dd
+
+--------------------------------------------------------------
+
+Information for C:\Users\DOMINION\OneDrive\Desktop\Forensic_Working_Space\USB01.dd:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 979
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 15,728,640
+[Physical Drive Information]
+ Drive Model: Generic Flash Disk USB Device
+ Drive Serial Number: F
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 7680 MB
+ Sector count:    15728640
+[Computed Hashes]
+ MD5 checksum:    cf948618d5874b00e7182c2b45c8975d
+ SHA1 checksum:   650682f28508811b2479bf88db3e687a6a20c6aa
+
+Image Information:
+ Acquisition started:   Sat Aug 29 10:36:16 2026
+ Acquisition finished:  Sat Aug 29 10:44:18 2026
+ Segment list:
+  C:\Users\DOMINION\OneDrive\Desktop\Forensic_Working_Space\USB01.dd.001
+ COMPUTED HASH :  cf948618d5874b00e7182c2b45c8975d
+ COMPUTED HASH :  650682f28508811b2479bf88db3e687a6a20c6aa
+
+Image Verification Results:
+ Verification started:  Sat Aug 29 10:44:30 2026
+ Verification finished: Sat Aug 29 10:45:39 2026
+ MD5 checksum:    cf948618d5874b00e7182c2b45c8975d : verified
+ SHA1 checksum:   650682f28508811b2479bf88db3e687a6a20c6aa : verified
