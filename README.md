@@ -1,6 +1,6 @@
 # 🔍 ICDFA Digital Forensic Labs
 
-**A hands-on portfolio of digital forensics investigations, evidence handling, and analysis techniques — developed as part of the ICDFA Digital Forensics Program.**
+**A hands-on portfolio of digital forensics investigations, evidence handling, and analysis techniques developed as part of the ICDFA Digital Forensics Program.**
 
 [![Digital Forensics](https://img.shields.io/badge/Field-Digital%20Forensics-blue)](#)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)](#)
@@ -10,7 +10,7 @@
 
 ## 📌 About This Repository
 
-This repository documents a series of practical digital forensics labs completed as part of the **ICDFA (International Cybersecurity and Digital Forensics Academy) Digital Forensics Program**. Each lab simulates a real-world forensic scenario — from acquiring digital evidence to recovering hidden or deleted data — and follows industry-standard methodology for evidence handling, analysis, and reporting.
+This repository documents a series of practical digital forensics labs completed as part of the **ICDFA (International Cybersecurity and Digital Forensics Academy) Digital Forensics Program**. Each lab simulates a real-world forensic scenario from acquiring digital evidence to recovering hidden or deleted data and follows industry-standard methodology for evidence handling, analysis, and reporting.
 
 The goal of this repository is twofold:
 - To document my growth and technical competence in digital forensics.
@@ -66,7 +66,7 @@ The goal of this repository is twofold:
 **Oje Dominion Mayowa**
 Digital Forensics Trainee | ICDFA Digital Forensics Program
 
-I'm building practical, evidence-based skills in digital forensics and incident investigation, with a focus on disciplined methodology, reproducibility, and clear documentation — qualities essential to forensic and cybersecurity work. This repository reflects that ongoing progression.
+I'm building practical, evidence-based skills in digital forensics and incident investigation, with a focus on disciplined methodology, reproducibility, and clear documentation qualities essential to forensic and cybersecurity work. This repository reflects that ongoing progression.
 
 📫 Connect with me: *[https://www.linkedin.com/in/oje-dominion/ | dominiono248@gmail.com | https://github.com/CyberMayo22/ here]*
 
