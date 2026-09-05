@@ -28,6 +28,9 @@ desktop.ini
 **/Autopsy_Analysis/**/*.db
 **/Autopsy_Analysis/**/*.db-wal
 **/Autopsy_Analysis/**/*.db-shm
+ 
+#Carving lab USB Image
+**CARVINGLAB_LAB3/usb_fat_carving.001 
 
 # ==============================
 # Forensic image files
