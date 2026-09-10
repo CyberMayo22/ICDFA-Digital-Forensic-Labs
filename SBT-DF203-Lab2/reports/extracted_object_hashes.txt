@@ -1,0 +1,5 @@
+a2143e21d1f93004f145684e87da19860f9dc4ccd6fb234c7b822aeeef97afdb  /var/www/html/lab_photo.jpg
+d874019a7e24ba7e4dbb66a1a0b2c1daed54e98cdddf52175b1e35d9c6c3fbcc  exported/http_objects/basic(1).html
+d874019a7e24ba7e4dbb66a1a0b2c1daed54e98cdddf52175b1e35d9c6c3fbcc  exported/http_objects/basic.html
+a2143e21d1f93004f145684e87da19860f9dc4ccd6fb234c7b822aeeef97afdb  exported/http_objects/building(1).jpg
+a2143e21d1f93004f145684e87da19860f9dc4ccd6fb234c7b822aeeef97afdb  exported/http_objects/building.jpg

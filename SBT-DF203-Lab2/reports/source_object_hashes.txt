@@ -1,0 +1,2 @@
+45dccb75befafda7d7e8fad1ec1677c87cca3354f427c8232a0e3ff18d2fef48  /var/www/html/image.html
+a2143e21d1f93004f145684e87da19860f9dc4ccd6fb234c7b822aeeef97afdb  /var/www/html/lab_photo.jpg
