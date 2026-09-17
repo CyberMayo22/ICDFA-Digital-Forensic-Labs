@@ -1,0 +1,2 @@
+192.168.214.2 dev eth0 lladdr 00:50:56:f4:75:b1 REACHABLE 
+192.168.214.254 dev eth0 lladdr 00:50:56:e0:11:6e STALE 
