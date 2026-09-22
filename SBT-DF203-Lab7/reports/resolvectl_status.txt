@@ -1,0 +1,118 @@
+Do you want to install it? (N/y)Reading package lists...
+Building dependency tree...
+Reading state information...
+Solving dependencies...
+The following packages were automatically installed and are no longer required:
+  libavc1394-0       libsimdutf31             python3-pluginbase
+  libicu76           libteamdctl0             python3-pysnmp4
+  libio-pty-perl     libunibreak6             python3.13
+  libipc-run-perl    libvidstab1.1            python3.13-dev
+  libmbedcrypto16    libxmlsec1-1             python3.13-minimal
+  libpostal-data     libxmlsec1-openssl1      python3.13-venv
+  libpostal1         openjdk-21-jre           rpcsvc-proto
+  libpython3.13-dev  openjdk-21-jre-headless
+  libsdl2-classic    postgresql-common-dev
+Use 'sudo apt autoremove' to remove them.
+
+Upgrading:
+  libnss-systemd     libsystemd0  systemd-sysv       udev
+  libpam-systemd     libudev1     systemd-timesyncd
+  libsystemd-shared  systemd      systemd-userdbd
+
+Installing:
+  systemd-resolved
+
+Installing dependencies:
+  libtss2-rc0t64  systemd-tpm
+
+Suggested packages:
+  libnss-myhostname  libnss-resolve
+
+Recommended packages:
+  tpm-udev
+
+Summary:
+  Upgrading: 10, Installing: 3, Removing: 0, Not Upgrading: 1428
+  Download size: 9,244 kB
+  Space needed: 2,777 kB / 59.9 GB available
+
+Continue? [Y/n] Get:1 http://kali.download/kali kali-rolling/main amd64 libsystemd0 amd64 261.2-1 [468 kB]
+Get:2 http://kali.download/kali kali-rolling/main amd64 libnss-systemd amd64 261.2-1 [227 kB]
+Get:3 http://kali.download/kali kali-rolling/main amd64 systemd-userdbd amd64 261.2-1 [82.9 kB]
+Get:4 http://kali.download/kali kali-rolling/main amd64 systemd-sysv amd64 261.2-1 [41.2 kB]
+Get:5 http://kali.download/kali kali-rolling/main amd64 libpam-systemd amd64 261.2-1 [317 kB]
+Get:6 http://kali.download/kali kali-rolling/main amd64 libsystemd-shared amd64 261.2-1 [2,571 kB]
+Get:7 http://kali.download/kali kali-rolling/main amd64 systemd amd64 261.2-1 [3,329 kB]
+Get:8 http://kali.download/kali kali-rolling/main amd64 systemd-timesyncd amd64 261.2-1 [71.3 kB]
+Get:9 http://kali.download/kali kali-rolling/main amd64 udev amd64 261.2-1 [1,485 kB]
+Get:10 http://kali.download/kali kali-rolling/main amd64 libudev1 amd64 261.2-1 [140 kB]
+Get:11 http://kali.download/kali kali-rolling/main amd64 libtss2-rc0t64 amd64 4.1.3-7 [31.1 kB]
+Get:12 http://kali.download/kali kali-rolling/main amd64 systemd-resolved amd64 261.2-1 [322 kB]
+Get:13 http://kali.download/kali kali-rolling/main amd64 systemd-tpm amd64 261.2-1 [158 kB]
+Fetched 9,244 kB in 4s (2,126 kB/s)
+(Reading database… (Reading database… 5%(Reading database… 10%(Reading database… 15%(Reading database… 20%(Reading database… 25%(Reading database… 30%(Reading database… 35%(Reading database… 40%(Reading database… 45%(Reading database… 50%(Reading database… 55%(Reading database… 60%(Reading database… 65%(Reading database… 70%(Reading database… 75%(Reading database… 80%(Reading database… 85%(Reading database… 90%(Reading database… 95%(Reading database… 100%(Reading database… 435249 files and directories currently installed.)
+Preparing to unpack …/libsystemd0_261.2-1_amd64.deb…
+Unpacking libsystemd0:amd64 (261.2-1) over (260.1-1)…
+Setting up libsystemd0:amd64 (261.2-1)…
+(Reading database… (Reading database… 5%(Reading database… 10%(Reading database… 15%(Reading database… 20%(Reading database… 25%(Reading database… 30%(Reading database… 35%(Reading database… 40%(Reading database… 45%(Reading database… 50%(Reading database… 55%(Reading database… 60%(Reading database… 65%(Reading database… 70%(Reading database… 75%(Reading database… 80%(Reading database… 85%(Reading database… 90%(Reading database… 95%(Reading database… 100%(Reading database… 435249 files and directories currently installed.)
+Preparing to unpack …/libnss-systemd_261.2-1_amd64.deb…
+Unpacking libnss-systemd:amd64 (261.2-1) over (260.1-1)…
+Preparing to unpack …/systemd-userdbd_261.2-1_amd64.deb…
+Unpacking systemd-userdbd (261.2-1) over (260.1-1)…
+Preparing to unpack …/systemd-sysv_261.2-1_amd64.deb…
+Unpacking systemd-sysv (261.2-1) over (260.1-1)…
+Preparing to unpack …/libpam-systemd_261.2-1_amd64.deb…
+Unpacking libpam-systemd:amd64 (261.2-1) over (260.1-1)…
+Preparing to unpack …/libsystemd-shared_261.2-1_amd64.deb…
+Unpacking libsystemd-shared:amd64 (261.2-1) over (260.1-1)…
+Setting up libsystemd-shared:amd64 (261.2-1)…
+(Reading database… (Reading database… 5%(Reading database… 10%(Reading database… 15%(Reading database… 20%(Reading database… 25%(Reading database… 30%(Reading database… 35%(Reading database… 40%(Reading database… 45%(Reading database… 50%(Reading database… 55%(Reading database… 60%(Reading database… 65%(Reading database… 70%(Reading database… 75%(Reading database… 80%(Reading database… 85%(Reading database… 90%(Reading database… 95%(Reading database… 100%(Reading database… 435249 files and directories currently installed.)
+Preparing to unpack …/systemd_261.2-1_amd64.deb…
+Unpacking systemd (261.2-1) over (260.1-1)…
+Preparing to unpack …/systemd-timesyncd_261.2-1_amd64.deb…
+Unpacking systemd-timesyncd (261.2-1) over (260.1-1)…
+Preparing to unpack …/udev_261.2-1_amd64.deb…
+Unpacking udev (261.2-1) over (260.1-1)…
+Preparing to unpack …/libudev1_261.2-1_amd64.deb…
+Unpacking libudev1:amd64 (261.2-1) over (260.1-1)…
+Setting up libudev1:amd64 (261.2-1)…
+Selecting previously unselected package libtss2-rc0t64:amd64.
+(Reading database… (Reading database… 5%(Reading database… 10%(Reading database… 15%(Reading database… 20%(Reading database… 25%(Reading database… 30%(Reading database… 35%(Reading database… 40%(Reading database… 45%(Reading database… 50%(Reading database… 55%(Reading database… 60%(Reading database… 65%(Reading database… 70%(Reading database… 75%(Reading database… 80%(Reading database… 85%(Reading database… 90%(Reading database… 95%(Reading database… 100%(Reading database… 435182 files and directories currently installed.)
+Preparing to unpack …/libtss2-rc0t64_4.1.3-7_amd64.deb…
+Unpacking libtss2-rc0t64:amd64 (4.1.3-7)…
+Selecting previously unselected package systemd-resolved.
+Preparing to unpack …/systemd-resolved_261.2-1_amd64.deb…
+Unpacking systemd-resolved (261.2-1)…
+Selecting previously unselected package systemd-tpm.
+Preparing to unpack …/systemd-tpm_261.2-1_amd64.deb…
+Unpacking systemd-tpm (261.2-1)…
+Setting up libtss2-rc0t64:amd64 (4.1.3-7)…
+Setting up systemd-tpm (261.2-1)…
+Setting up libnss-systemd:amd64 (261.2-1)…
+Setting up systemd (261.2-1)…
+Installing new version of config file /etc/systemd/networkd.conf…
+Installing new version of config file /etc/systemd/system.conf…
+Installing new version of config file /etc/systemd/user.conf…
+Setting up systemd-timesyncd (261.2-1)…
+systemd-time-wait-sync.service is a disabled or a static unit not running, not starting it.
+Setting up udev (261.2-1)…
+Setting up systemd-resolved (261.2-1)…
+Converting /etc/resolv.conf to a symlink to /run/systemd/resolve/stub-resolv.conf...
+Creating group 'systemd-resolve' with GID 971.
+Creating user 'systemd-resolve' (systemd Resolver) with UID 971 and GID 971.
+Created symlink '/etc/systemd/system/dbus-org.freedesktop.resolve1.service' → '/usr/lib/systemd/system/systemd-resolved.service'.
+Created symlink '/etc/systemd/system/sysinit.target.wants/systemd-resolved.service' → '/usr/lib/systemd/system/systemd-resolved.service'.
+Created symlink '/etc/systemd/system/sockets.target.wants/systemd-resolved-varlink.socket' → '/usr/lib/systemd/system/systemd-resolved-varlink.socket'.
+Created symlink '/etc/systemd/system/sockets.target.wants/systemd-resolved-monitor.socket' → '/usr/lib/systemd/system/systemd-resolved-monitor.socket'.
+Setting up systemd-userdbd (261.2-1)…
+Setting up systemd-sysv (261.2-1)…
+Setting up libpam-systemd:amd64 (261.2-1)…
+Processing triggers for initramfs-tools (0.150)…
+update-initramfs: Generating /boot/initrd.img-6.19.14+kali-amd64
+Processing triggers for libc-bin (2.43-4)…
+Processing triggers for man-db (2.13.1-1)…
+Processing triggers for dbus (1.16.2-4)…
+Processing triggers for shared-mime-info (2.4-5+b3)…
+Processing triggers for procps (2:4.0.4-9+b2)…
+Processing triggers for kali-menu (2026.2.5)…
+sudo apt install systemd-resolved
