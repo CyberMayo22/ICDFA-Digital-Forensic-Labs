@@ -1,0 +1,8 @@
+Archive:  evidence/LabFiles.zip
+ extracting: evidence/extracted/LabFiles/Chrome_History_Cryptocurrency_Lab.db  
+ extracting: evidence/extracted/LabFiles/Chrome_History_Recreation_Craigslist  
+ extracting: evidence/extracted/LabFiles/Chrome_History_Recreation_Gmail  
+ extracting: evidence/extracted/LabFiles/Chrome_History_Recreation_Gmail_Headers  
+ extracting: evidence/extracted/LabFiles/Chrome_History_Recreation_Imgur  
+ extracting: evidence/extracted/LabFiles/Chrome_History_to_Database_Demo  
+ extracting: evidence/extracted/LabFiles/History  
