@@ -70,3 +70,4 @@ env/
 .vscode/
 .idea/
 *.mem
+mem_lab/volatility/
