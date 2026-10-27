@@ -1,0 +1,7 @@
+evidence/
+working/
+*.zip
+*.db
+*.sqlite
+*.db-wal
+*.db-shm
